@@ -100,6 +100,27 @@
 
 - +1 max health per level, which replaces the health from Tissues and Holdouts.
 
+## Second pass: menus, settings and text
+
+- **Main menu:** it grows with you. A first-time player sees Hunt, Settings and Feedback. Choose organism, Daily, Journal and Nest appear after the first hunt; Boss Rehearsal appears after the first boss.
+  - One Hunt button starts straight away with your organism.
+  - Full screen left the menu (it is in Settings, and on the F key).
+  - Last hunt appears only once there is one.
+- **Title:** the sound status line became one "Headphones recommended" hint on desktop.
+- **Organism screen:**
+  - The Bounty panel shows only after it unlocks (win a run).
+  - The Seed button is gone.
+- **Settings: 19 → 18, and each device shows only what it can use.**
+  - Desktop has no touch or vibration options.
+  - Vibration shows only where the browser has it; Full screen only where it works.
+  - Copy and Paste save code are now one Save code sheet.
+  - The sound status line is gone.
+- **Nest tabs:** Choices and Card pool became one Upgrades tab, so there are 3 tabs.
+- **Journal:** the Deeds tab is gone; deeds live in the Nest next to what they unlock.
+- **Pause, Stats tab:** only the stats your build has changed, plus health and speed, instead of 14 rows of base values.
+- **Level-up and Chrysalis:** the empty "Tap a card to see..." box is gone; the subtitle already says it.
+- **Feedback:** categories 9 → 6 (Bug, Balance, Idea, Confusing, Praise, Other).
+
 ## IDEAS (parked, not in the game)
 
 - Encounters (Holdout, Slaughterhouse) could come back as a rare event that uses the existing event banner, if runs feel samey.
